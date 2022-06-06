@@ -42,6 +42,7 @@ My dream is to be in the IT world. I have not experience in this sphere. But I q
 ### **LANGUAGES**
 * English A2
 * Russian Native
+
 ---
 ### **PROJECTS**
 https://ShLiudmila.github.io/rsschool-cv/cv
