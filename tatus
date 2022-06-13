@@ -1,0 +1,71 @@
+[33mcommit df52b659857472f6666dea054bbc2e52dd93f53a[m[33m ([m[1;36mHEAD -> [m[1;32mrsschool-cv-html[m[33m)[m
+Author: Liudmila Shcherbakova <sh-liudmila@bk.ru>
+Date:   Fri Jun 10 22:06:20 2022 +0200
+
+    feat:change html
+
+[33mcommit 95bdf5b77a1ee11b0de2a8baa847c4d5cbb23f54[m
+Author: Liudmila Shcherbakova <sh-liudmila@bk.ru>
+Date:   Fri Jun 10 22:00:31 2022 +0200
+
+    feat: add text
+
+[33mcommit 4cbd4fe33dd5c643b61a89b47317937e453e78b6[m
+Author: Liudmila Shcherbakova <sh-liudmila@bk.ru>
+Date:   Fri Jun 10 20:32:01 2022 +0200
+
+    feat: add structure
+
+[33mcommit 2f8aedb474532d0355710c13bd7a867416d6dcab[m[33m ([m[1;31morigin/rsschool-cv-html[m[33m)[m
+Author: Liudmila Shcherbakova <sh-liudmila@bk.ru>
+Date:   Mon Jun 6 21:20:20 2022 +0200
+
+    docs: change readme file
+
+[33mcommit 55e56c6dd9dd8f39b08c42879c7e4e7dc8b53118[m
+Author: Liudmila Shcherbakova <sh-liudmila@bk.ru>
+Date:   Mon Jun 6 21:11:15 2022 +0200
+
+    feat: add css file
+
+[33mcommit 2ba64621c89116035b486a6bd0a9af119d3f57ec[m
+Author: Liudmila Shcherbakova <sh-liudmila@bk.ru>
+Date:   Mon Jun 6 21:07:32 2022 +0200
+
+    feat: aff html file
+
+[33mcommit 4389e6ee0682ca2f196f6d9e44715865b67417fc[m[33m ([m[1;31morigin/gh-pages[m[33m, [m[1;32mgh-pages[m[33m)[m
+Author: Liudmila Shcherbakova <sh-liudmila@bk.ru>
+Date:   Mon Jun 6 14:21:57 2022 +0200
+
+    fix: change readme
+
+[33mcommit 0b0e845a3473d2fc1b706781d49b461d71ee484c[m
+Author: Liudmila Shcherbakova <sh-liudmila@bk.ru>
+Date:   Mon Jun 6 14:14:20 2022 +0200
+
+    fix: change Russian
+
+[33mcommit 42693fd1724ccb432a3d37b288377fd74aa12286[m
+Author: Liudmila Shcherbakova <sh-liudmila@bk.ru>
+Date:   Mon Jun 6 14:11:45 2022 +0200
+
+    fix: change languages
+
+[33mcommit 0f832e1ac956fb270af586f49b0d2a9b99a2cef9[m
+Author: Liudmila Shcherbakova <sh-liudmila@bk.ru>
+Date:   Mon Jun 6 14:07:55 2022 +0200
+
+    feat: add project
+
+[33mcommit e003dcc4e8ac92fc144bb30eb21915f4c292f57b[m
+Author: Liudmila Shcherbakova <sh-liudmila@bk.ru>
+Date:   Mon Jun 6 14:00:18 2022 +0200
+
+    feat: about me
+
+[33mcommit 989d941dd9381c6d31beb21181c5dd7eafbc8c95[m
+Author: Liudmila Shcherbakova <sh-liudmila@bk.ru>
+Date:   Mon Jun 6 13:43:18 2022 +0200
+
+    feat: add contacts
